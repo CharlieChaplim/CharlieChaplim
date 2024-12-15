@@ -16,9 +16,9 @@ vscode,html,css,django,discord,github,java,py
 
 ## Top Projects
 
-- [RichPresence](https://github.com/CharlieChaplim/RichPresence): A Python program using discord.py that allows you to have a custom status on Discord. ⭐ **0 stars** | 🐍 **Python**  
-- [AutoClicks](https://github.com/CharlieChaplim/AutoClicks): Auto Clicker for keyboard and mouse. ⭐ **0 stars** | 🔧 **TeX**  
-- [Geosaga-o-jogo](https://github.com/CharlieChaplim/Geosaga-o-jogo): My first game made in Python, a geographical guessing game. ⭐ **0 stars** | 🐍 **Python**
+- [RichPresence](https://github.com/CharlieChaplim/RichPresence): A Python program using discord.py that allows you to have a custom status on Discord. ⭐ **4 stars** | 🐍 **Python**  
+- [AutoClicks](https://github.com/CharlieChaplim/AutoClicks): Auto Clicker for keyboard and mouse. ⭐ **3 stars** | 🐍 **Python**
+- [Geosaga-o-jogo](https://github.com/CharlieChaplim/Geosaga-o-jogo): My first game made in Python, a geographical guessing game. ⭐ **3 stars** | 🐍 **Python**
 
 ## GitHub Stats
 
