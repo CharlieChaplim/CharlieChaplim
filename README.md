@@ -36,6 +36,12 @@ vscode,html,css,django,discord,github,java,py
 - Updated README.md in [RichPresence](https://github.com/CharlieChaplim/RichPresence)  
 - Created repository [RichPresence](https://github.com/CharlieChaplim/RichPresence)
 
+## Support-me
+
+If you like my work and want to support me, please consider contributing on Ko-fi!
+
+[![Support-me on Ko-fi](https://img.shields.io/badge/Apoie--me%20no-Ko--fi-red?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/loriisdead)
+
 ## ASCII Art
 
 ```
