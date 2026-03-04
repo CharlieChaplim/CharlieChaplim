@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/lVxxxUX.png" width="250"/>
-</p>
+<img src="https://i.imgur.com/lVxxxUX.png" width="220px" align="right"/>
 
 # 👋 Hello, I'm José Roberto
 
@@ -12,6 +10,8 @@ I build scalable applications using **Python, Java and modern Web technologies**
 Currently focused on **backend architecture, automation and clean system design**.
 
 I value structured code, maintainability and continuous technical evolution.
+
+<br clear="right"/>
 
 ---
 
