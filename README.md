@@ -62,6 +62,7 @@ Focused on structured data storage, command handling and organized information r
 Arcade-style space shooter developed in Java, focused on gameplay logic, object interaction and event handling.  
 Built to practice game loop structure and real-time mechanics.  
 🔗 https://github.com/CharlieChaplim/Space-Shooter  
+
 ---
 
 ## 📊 GitHub Analytics
