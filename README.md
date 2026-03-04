@@ -65,7 +65,7 @@ Discord automation and interaction system.
 ## 🟡 Contribution Activity
 
 <p align="center">
-  <img src="srcset="https://raw.githubusercontent.com/CharlieChaplim/CharlieChaplim/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/CharlieChaplim/CharlieChaplim/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 ---
