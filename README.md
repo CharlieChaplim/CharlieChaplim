@@ -1,6 +1,6 @@
 # 👋 Hello, I'm José Roberto
 
-<img src="https://i.imgur.com/lVxxxUX.png" width="160px" align="right" />
+<img src="https://i.imgur.com/lVxxxUX.png" width="120px" align="right" />
 
 🎓 Software Engineering Student (5th semester)  
 💻 Backend-Focused Full Stack Developer  
