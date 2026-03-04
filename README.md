@@ -1,51 +1,91 @@
+<img src="https://i.imgur.com/lVxxxUX.png" width="220px" align="right"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jose-roberto-santos-nascimento-601b1727a)
+# 👋 Hello, I'm José Roberto
 
-## Hi there! 👋
+🎓 Software Engineering Student (5th semester)  
+💻 Backend-Focused Full Stack Developer  
+📍 Goiás, Brazil  
 
-I'm **José Roberto**, a Full Stack Developer based in **Goiás, Brasil**. I specialize in **Python** and **HTML/CSS**, creating amazing web interfaces. I'm passionate about coding and always eager to learn new technologies!
-Currently, I'm a freelancer open to new opportunities in Java, Javascript, Html and Python. If you have a project in mind, feel free to reach out!
+I build scalable applications using **Python, Java and modern Web technologies**.  
+Currently focused on **backend architecture, automation and clean system design**.
 
-## Skills & Technologies
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ícone-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ícone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ícone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ícone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ícone-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg">
-  <img align="center" alt="Ícone-Discord" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg">
- <br>
-</div> 
+I value structured code, maintainability and continuous technical evolution.
 
-## Top Projects
+---
 
-- [Portifolio](https://github.com/CharlieChaplim/RichPresence): My personal portifolio with some works. | 📑 **HTML**  
-- [Lass Bot](https://github.com/CharlieChaplim/AutoClicks): A python discord bot for storage data. | 🐍 **Python**
-  
-## GitHub Stats
+## 🌐 Connect With Me
 
-🚀 **Public Repositories**: 9  
-👥 **Followers**: 0  
-🔄 **Following**: 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlieChaplim&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieChaplim&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-roberto-santos-nascimento-601b1727a)
 
+---
 
-## Support-me
+## 🚀 Tech Stack
 
-If you like my work and want to support me, please consider contributing on Ko-fi!
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
-[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-red?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/loriisdead)
+---
 
-## ASCII Art
+## 🧠 Featured Projects
 
-```
- ██████╗██╗  ██╗ █████╗ ██████╗ ██╗     ██╗███████╗ ██████╗██╗  ██╗ █████╗ ██████╗ ██╗     ██╗███╗   ███╗
-██╔════╝██║  ██║██╔══██╗██╔══██╗██║     ██║██╔════╝██╔════╝██║  ██║██╔══██╗██╔══██╗██║     ██║████╗ ████║
-██║     ███████║███████║██████╔╝██║     ██║█████╗  ██║     ███████║███████║██████╔╝██║     ██║██╔████╔██║
-██║     ██╔══██║██╔══██║██╔══██╗██║     ██║██╔══╝  ██║     ██╔══██║██╔══██║██╔═══╝ ██║     ██║██║╚██╔╝██║
-╚██████╗██║  ██║██║  ██║██║  ██║███████╗██║███████╗╚██████╗██║  ██║██║  ██║██║     ███████╗██║██║ ╚═╝ ██║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝╚═╝     ╚═╝
-                                                                                                         
-```
+### 🎭 TeatroABC — Java
+Object-oriented academic project focused on structure, modularization and clean architecture.  
+🔗 https://github.com/CharlieChaplim/TeatroABC  
+
+### 🤖 Jaguar — Python Discord Bot
+Automation and data handling bot with structured logic and command system.  
+🔗 https://github.com/CharlieChaplim/Jaguar  
+
+### 🚀 Space Shooter — Java
+Game project focused on logic implementation and gameplay mechanics.  
+🔗 https://github.com/CharlieChaplim/Space-Shooter  
+
+### ⚙ Lass Bot
+Discord automation and interaction system.  
+🔗 https://github.com/CharlieChaplim/AutoClicks  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CharlieChaplim&show_icons=true&theme=radical&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieChaplim&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🟡 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/CharlieChaplim/CharlieChaplim/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/CharlieChaplim/CharlieChaplim/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/CharlieChaplim/CharlieChaplim/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 💬 About Me
+
+- 🧠 Strong logical reasoning  
+- 🔥 Passionate about system architecture  
+- 🎯 Focused on becoming a high-level backend engineer  
+- ⚡ Interested in scalable systems and automation  
+
+---
+
+## 📫 Open to Opportunities
+
+Available for freelance work, collaborations and backend-focused roles.
+
+Let’s build something meaningful.
