@@ -37,22 +37,31 @@ I value structured code, maintainability and continuous technical evolution.
 
 ## 🧠 Featured Projects
 
-### 🎭 TeatroABC — Java
-Object-oriented academic project focused on structure, modularization and clean architecture.  
+### 🎭 TeatroABC — Java  
+Final semester project built in Java.  
+A ticket management system simulating a theater ticket sales platform (without real payment integration), focused on object-oriented programming, system structure and business rule implementation.  
 🔗 https://github.com/CharlieChaplim/TeatroABC  
 
-### 🤖 Jaguar — Python Discord Bot
-Automation and data handling bot with structured logic and command system.  
+---
+
+### 🤖 Jaguar — RP Discord Bot (Python)  
+Roleplay-focused Discord bot featuring climate generation, choice commands, dice systems and interactive mechanics for RPG environments.  
+Designed around modular command handling and structured logic.  
 🔗 https://github.com/CharlieChaplim/Jaguar  
 
-### 🚀 Space Shooter — Java
-Game project focused on logic implementation and gameplay mechanics.  
+---
+
+### ⚙ Lass — Character & Powers Database Bot (Python)  
+Discord bot designed to manage character sheets and power databases for roleplay servers.  
+Focused on structured data storage, command handling and organized information retrieval.  
+🔗 https://github.com/CharlieChaplim/Lass  
+
+---
+
+### 🚀 Space Shooter — Java  
+Arcade-style space shooter developed in Java, focused on gameplay logic, object interaction and event handling.  
+Built to practice game loop structure and real-time mechanics.  
 🔗 https://github.com/CharlieChaplim/Space-Shooter  
-
-### ⚙ Lass Bot
-Discord automation and interaction system.  
-🔗 https://github.com/CharlieChaplim/AutoClicks  
-
 ---
 
 ## 📊 GitHub Analytics
