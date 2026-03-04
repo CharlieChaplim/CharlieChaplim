@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/lVxxxUX.png" width="220px" align="right"/>
-
 # 👋 Hello, I'm José Roberto
+
+<img src="https://i.imgur.com/lVxxxUX.png" width="220px" align="right"/>
 
 🎓 Software Engineering Student (5th semester)  
 💻 Backend-Focused Full Stack Developer  
@@ -10,8 +10,6 @@ I build scalable applications using **Python, Java and modern Web technologies**
 Currently focused on **backend architecture, automation and clean system design**.
 
 I value structured code, maintainability and continuous technical evolution.
-
-<br clear="right"/>
 
 ---
 
