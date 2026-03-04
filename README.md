@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/lVxxxUX.png" width="220px" align="right"/>
+<p align="center">
+  <img src="https://i.imgur.com/lVxxxUX.png" width="250"/>
+</p>
 
 # 👋 Hello, I'm José Roberto
 
