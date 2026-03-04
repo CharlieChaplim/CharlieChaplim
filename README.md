@@ -56,17 +56,19 @@ Discord automation and interaction system.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CharlieChaplim&show_icons=true&theme=radical&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieChaplim&layout=compact&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CharlieChaplim&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieChaplim&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🟡 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CharlieChaplim/CharlieChaplim/output/pacman-contribution-graph.svg" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
